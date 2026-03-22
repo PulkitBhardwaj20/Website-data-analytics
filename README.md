@@ -64,15 +64,17 @@ These visualizations highlight key patterns in website traffic and user engageme
 This line plot shows how different traffic channels perform across various hours of the day.  
 It helps identify peak activity times and understand when users are most active from each source.
 
-### 📉 Engagement Rate vs Sessions
-This scatter plot illustrates the relationship between engagement rate and number of sessions.  
-It shows that higher traffic does not necessarily correspond to higher engagement, indicating varying user quality across channels.
-
 ![Channel Traffic by Hour](channel_traffic_by_hour.png)
 
 ---
 
+### 📉 Engagement Rate vs Sessions
+This scatter plot illustrates the relationship between engagement rate and number of sessions.  
+It shows that higher traffic does not necessarily correspond to higher engagement, indicating varying user quality across channels.
+
 ![Engagement vs Sessions](traffic_trend.png)
+
+---
 
 ## 📂 Project Structure
 
