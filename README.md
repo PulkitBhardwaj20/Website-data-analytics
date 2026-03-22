@@ -1,6 +1,8 @@
 # 📊 Website Traffic & User Engagement Analysis using Python
 
+
 Analyzed website traffic and user engagement using Python to uncover trends, channel performance, and behavioral insights.
+
 
 ---
 
@@ -78,6 +80,7 @@ It shows that higher traffic does not necessarily correspond to higher engagemen
 
 ## 📂 Project Structure
 
+```
 Website-data-analytics/
 │
 ├── website-data-analysis.ipynb
@@ -85,7 +88,7 @@ Website-data-analytics/
 ├── channel_traffic_by_hour.png
 ├── traffic_trend.png
 └── README.md
-
+```
 ---
 
 ## 🚀 Outcome
