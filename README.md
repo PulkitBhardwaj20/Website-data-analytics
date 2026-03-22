@@ -78,10 +78,13 @@ It shows that higher traffic does not necessarily correspond to higher engagemen
 
 ## 📂 Project Structure
 
--📁 Website-data-analytics
-┣ 📄 website-data-analysis.ipynb
-┣ 📄 data-export.csv
-┗ 📄 README.md
+Website-data-analytics/
+│
+├── website-data-analysis.ipynb
+├── data-export.csv
+├── channel_traffic_by_hour.png
+├── traffic_trend.png
+└── README.md
 
 ---
 
