@@ -58,13 +58,21 @@ The dataset contains website traffic metrics such as:
 
 ## 📸 Sample Visualizations
 
-These visualizations highlight traffic trends and channel-wise engagement patterns.
+These visualizations highlight key patterns in website traffic and user engagement.
 
-![Channel Traffic by Hour](https://github.com/user-attachments/assets/fdf11b11-4a4c-426b-9540-471de4a69220)
+### 📊 Channel Traffic by Hour
+This line plot shows how different traffic channels perform across various hours of the day.  
+It helps identify peak activity times and understand when users are most active from each source.
+
+### 📉 Engagement Rate vs Sessions
+This scatter plot illustrates the relationship between engagement rate and number of sessions.  
+It shows that higher traffic does not necessarily correspond to higher engagement, indicating varying user quality across channels.
+
+![Channel Traffic by Hour](channel_traffic_by_hour.png)
 
 ---
 
-![Channel Performance](https://github.com/user-attachments/assets/b8cd3890-fc52-452f-822d-5a015073d258)
+![Engagement vs Sessions](traffic_trend.png)
 
 ## 📂 Project Structure
 
@@ -79,15 +87,9 @@ These visualizations highlight traffic trends and channel-wise engagement patter
 This project demonstrates how data analysis can be used to:
 - Understand user behavior  
 - Evaluate marketing channel effectiveness  
-- Support data-driven decision making  
-
+- Support data-driven decision making
+  
 ---
 
-## 📌 Scope for Enhancement
-- Build interactive dashboards using Power BI  
-- Apply predictive modeling for traffic forecasting  
-
----
-
-## 🙌 Author
+## Author
 **Pulkit Bhardwaj**
