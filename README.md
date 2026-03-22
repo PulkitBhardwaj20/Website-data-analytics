@@ -58,12 +58,13 @@ The dataset contains website traffic metrics such as:
 
 ## 📸 Sample Visualizations
 
-![Traffic Trend](https://github.com/user-attachments/assets/fdf11b11-4a4c-426b-9540-471de4a69220)
+These visualizations highlight traffic trends and channel-wise engagement patterns.
 
-![Channel Performance](https://github.com/user-attachments/assets/b8cd3890-fc52-452f-822d-5a015073d258)
-
+![Channel Traffic by Hour](https://github.com/user-attachments/assets/fdf11b11-4a4c-426b-9540-471de4a69220)
 
 ---
+
+![Channel Performance](https://github.com/user-attachments/assets/b8cd3890-fc52-452f-822d-5a015073d258)
 
 ## 📂 Project Structure
 
